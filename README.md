@@ -1,4 +1,4 @@
-# WEBNAR GIT & GITHUB
+# WEBINAR GIT & GITHUB
 
 ## Instalação Git
 
@@ -11,29 +11,29 @@ https://git-scm.com/downloads
 
 ## Tarefas
 
-- [] Você deseja controlar versões do seu projeto.
+- [X] Você deseja controlar versões do seu projeto.
     - `git init` // inicia a linha do tempo
     
-- [] Você deseja criar pontos na história do seu projeto.
+- [X] Você deseja criar pontos na história do seu projeto.
     - `git add .` // adiciona ou atualiza todas as mudanças para irem a linha de tempo
     - `git commit -m "mensagem"` // adiciona um ponto na linha do tempo
 
-- [] Você deseja verificar mudanças feitas no seu projeto.
+- [X] Você deseja verificar mudanças feitas no seu projeto.
     - `git log` // visualiza os pontos na linha do tempo/commit
     - `git status` // informa o estado das alterações do nosso projeto
     - `git show` // apresenta determinado ponto na história
     
-- [] Você começa uma nova funcionalidade, sem estragar o que ja foi feito.
+- [X] Você começa uma nova funcionalidade, sem estragar o que ja foi feito.
     - `git branch "nome da branch"` // cria uma nova linha de tempo
     - `git checkout "nome da branch"` // alterna entre as linhas de tempo
     
-- [] Você adiciona as novas funcionalidades ao seu projeto de em produção.
+- [X] Você adiciona as novas funcionalidades ao seu projeto de em produção.
     - `git merge "nome da branch"` // unifica uma linha de tempo bifurcada
     
-- [] Você quer deletar a branch da nova funcionalidade, depois de aplicar emp produção.
+- [X] Você quer deletar a branch da nova funcionalidade, depois de aplicar emp produção.
     - `git branch -D "nome da branch"` // deleta uma linha de tempo
     
-- [] Você quer colocar seu projeto na nuvem.
+- [X] Você quer colocar seu projeto na nuvem.
     
     - https://github.com
 
