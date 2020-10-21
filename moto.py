@@ -1,2 +1,2 @@
 moto = 'honda'
-ano 2010
+ano = 2010
