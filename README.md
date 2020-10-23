@@ -1,6 +1,6 @@
 # WEBINAR GIT & GITHUB
 
-Transmitido no canal da [Pontifícia Universidade Católica de Goiás](https://www.youtube.com/user/PUCGOIAS) pelo VI CONGRESSO DE CIÊNCIA E TECNOLOGIA *Inteligência Artificial: A nova fronteira da ciência brasileira*, o webinar foi produzido afim de compartilhar uma breve introdução teórica e prática do Git & GitHub.
+Transmitido no canal da [Pontifícia Universidade Católica de Goiás](https://www.youtube.com/user/PUCGOIAS) pelo VI CONGRESSO DE CIÊNCIA E TECNOLOGIA *Inteligência Artificial: A nova fronteira da ciência brasileira*, o webinar foi produzido para compartilhar uma breve introdução teórica e prática do Git & GitHub.
 <p>Agradeço muito a todos que participaram. E se você ainda não viu, corre lá e descubra como os Devs viajam no tempo!</p>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JQeFvtjWk5U
